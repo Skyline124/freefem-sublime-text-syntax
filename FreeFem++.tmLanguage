@@ -114,7 +114,7 @@
 			<key>comment</key>
 			<string>operators</string>
 			<key>match</key>
-			<string>\s*(==|~=|&lt;|&lt;=|&gt;|&gt;=|&amp;|&amp;&amp;|:|\||\|\||\+|-|\*|\.\*|(?=/)|\./|\\|\.\\|\^|\.\^)\s*</string>
+			<string>\s*(=|==|~=|&lt;|&lt;=|&gt;|&gt;=|&amp;|&amp;&amp;|:|\||\|\||\+|-|\*|\.\*|(?=/)|\./|\\|\.\\|\^|\.\^)\s*</string>
 			<key>name</key>
 			<string>keyword.operator.symbols.matlab</string>
 		</dict>

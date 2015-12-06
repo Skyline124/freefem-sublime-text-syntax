@@ -1,4 +1,4 @@
-# FreeFem-
+# FreeFem++ Syntax for Sublime Text 3
 
 This is a very simple syntax highlighting for FreeFem++ in SublimeText 3. I cannot guarantee this would work with your version.
 

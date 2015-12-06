@@ -52,7 +52,7 @@ patterns:
 
 - comment: operators
   name: keyword.operator.symbols.matlab
-  match: \s*(==|~=|<|<=|>|>=|&|&&|:|\||\|\||\+|-|\*|\.\*|(?=/)|\./|\\|\.\\|\^|\.\^)\s*
+  match: \s*(=|==|~=|<|<=|>|>=|&|&&|:|\||\|\||\+|-|\*|\.\*|(?=/)|\./|\\|\.\\|\^|\.\^)\s*
 
 - comment: comment line
   name: comment.line.banner.c++
