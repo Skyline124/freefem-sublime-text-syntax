@@ -56,7 +56,7 @@
 			<key>comment</key>
 			<string>reserved constants</string>
 			<key>match</key>
-			<string>\b(NULL|true|false|TRUE|FALSE)\b</string>
+			<string>\b(pi|NULL|true|false|TRUE|FALSE)\b</string>
 			<key>name</key>
 			<string>constant.language.c</string>
 		</dict>

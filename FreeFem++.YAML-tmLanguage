@@ -29,7 +29,7 @@ patterns:
 
 - comment: reserved constants
   name: constant.language.c
-  match: \b(NULL|true|false|TRUE|FALSE)\b
+  match: \b(pi|NULL|true|false|TRUE|FALSE)\b
 
 - comment: strings with double quotes
   begin: \"
